@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HeiMaShop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HeiMaShop_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HeiMaShop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HeiMaShop" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/jar包/mysql/mysql-connector-java/5.1.34/mysql-connector-java-5.1.34.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/standard.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/mail.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/jstl.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/commons-io-1.4.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="F:/黑马32期/黑马 北京JavaEE就业班32期 20160717-20161206/WEB28_网上商城/WEB28_网上商城/资料/01-jar包/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="E:/jar包/commons-pool2-2.4.2/commons-pool2-2.4.2.jar" />
+          <element id="file-copy" path="E:/jar包/GSON完整包/gson-2.2.4.jar" />
+          <element id="file-copy" path="E:/jar包/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar" />
+          <element id="file-copy" path="E:/jar包/jedis/jedis-2.7.0.jar" />
+          <element id="file-copy" path="E:/jar包/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
